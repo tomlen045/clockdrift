@@ -2,8 +2,5 @@ __pycache__/
 *.pyc
 .DS_Store
 *-article.html
-screenshots/
-make_shots.py
-make_cover_pil.py
 publish-gitee.sh
 publish-github.sh
